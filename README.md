@@ -1,4 +1,4 @@
-# Spring Boot Microservices with Hüseyin BABAL
+# Spring Boot Microservices Training
 
 This repository contains my practical implementations and learnings from the [Spring Boot Microservices series](https://www.youtube.com/watch?v=QRVz-KqAXHU&list=PL-Z0o2McR6b4YhePHVTynQUfNyG4pUKAr) by Hüseyin BABAL on YouTube. The goal of this repository is to understand microservices architecture and how to implement it using Spring Boot.
 
